@@ -9,6 +9,18 @@ O arquivo Graficos gera um grafico da analise para mais de 1 arquivo, podendo co
 
 Com os dados atuais foi obtido os seguntes resultados:
 ![Figure_1_EUA](https://user-images.githubusercontent.com/62814826/211423896-34b93940-e5f2-4ee1-82a5-8922f88843de.png)
+
 ![Figure_1_quenia](https://user-images.githubusercontent.com/62814826/211423922-0174b6df-4173-4e8d-bf02-0761567b478e.png)
+
 ![Figure_2_australia](https://user-images.githubusercontent.com/62814826/211423930-ccc62f0f-e794-4af6-964a-511049d712d9.png)
+
 ![Figure_brasil_1](https://user-images.githubusercontent.com/62814826/211423941-5d7e5aac-5a86-48b8-9730-996fb7b76013.png)
+
+
+![Figure_2_quenia](https://user-images.githubusercontent.com/62814826/211424050-ef9e3750-dcb1-4895-ae94-6bf3456abd47.png)
+
+![Figure_1_australia](https://user-images.githubusercontent.com/62814826/211424063-33eb43c2-7f52-4f07-bb16-a540eb997e67.png)
+
+![Figure_2_EUA](https://user-images.githubusercontent.com/62814826/211424076-3aa70e20-3b94-4697-881c-342c700d22a5.png)
+
+![Figure_brasil_2](https://user-images.githubusercontent.com/62814826/211424090-63136ad7-6d8f-452c-84cc-a729f16ef247.png)
