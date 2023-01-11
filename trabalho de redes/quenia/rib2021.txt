@@ -1,5 +1,0 @@
-Total de AS que possuem IPV4 e IPV6: 0
-Total de AS que possuem IPV4: 0
-Total de AS que possuem IPV6: 0
-Total de AS: 0
-Data: 17/03/2021 16:00:00

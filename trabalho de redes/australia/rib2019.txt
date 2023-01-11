@@ -1,5 +1,0 @@
-Total de AS que possuem IPV4 e IPV6: 27821
-Total de AS que possuem IPV4: 87707
-Total de AS que possuem IPV6: 28680
-Total de AS: 88566
-Data: 17/03/2019 16:00:00
